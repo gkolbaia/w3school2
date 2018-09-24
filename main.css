@@ -1,0 +1,56 @@
+body
+{
+    margin: 0;
+}
+
+
+.head-menu
+{
+    position: fixed;
+    width: 100%;
+    background-color: black;
+    position: fixed;
+}
+.head-menu div
+{
+    display: inline-block;
+
+}
+.menu
+{
+    margin: 13px 0px;
+}
+
+.menu a
+{
+    text-decoration: none;
+    color: white;
+    padding: 14px 24px;
+}
+.menu a:hover
+{
+    background-color:lightgrey;
+    color: black;
+}
+
+.search-buttno
+{
+float: right;
+    display: block;
+
+}
+.search-buttno button
+{
+    background-color: black;
+    border-style: none;
+    padding: 14px 24px;
+}
+.search-buttno button:hover
+{
+    background-color: red;
+    cursor: pointer;
+}
+
+
+
+
